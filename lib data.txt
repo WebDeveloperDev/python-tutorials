@@ -1,0 +1,3 @@
+{'dev': 'Pride and Prejudice'}
+{'dev': 'Baburnama'}
+{'dev': 'One Hundred Years of Solitude by Gabriel Garcia Marquez'}
